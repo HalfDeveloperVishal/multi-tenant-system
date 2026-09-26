@@ -1,7 +1,5 @@
 # Multi-Tenant RAG-as-a-Service
 
-[![Diagram](https://img.shields.io/badge/gitdiagram-view%20architecture-blue)](https://gitdiagram.com/mehta-amit-codes/multi-tenant-rag)
-
 Reference implementation of the "Multi-Tenant RAG-as-a-Service" blueprint:
 tenant isolation, onboarding, incremental ingestion, usage metering, rate
 limiting, and API-key auth.
